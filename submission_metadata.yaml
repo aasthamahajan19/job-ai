@@ -14,7 +14,7 @@ team_members:
     email: "amahajan_be24@thapar.edu"
     role: "AI/ML Engineer"
 
-github_repo: "https://github.com/YOUR_USERNAME/job-ai"
+github_repo: "https://github.com/aasthamahajan19/job-ai"
 sandbox_link:"https://colab.research.google.com/drive/1obxTmJ8eSemCe2mqo3Z_bacIpiINLx5n?usp=sharing"
 reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./Nexus_Ai.csv"
 
