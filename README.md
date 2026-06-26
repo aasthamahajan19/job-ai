@@ -67,7 +67,7 @@ Ensure you have Python 3.11+ installed.
 To run the candidate ranker on the dataset:
 
 ```bash
-python rank.py --candidates /path/to/candidates.jsonl.gz --out ./submission.csv
+python rank.py --candidates /path/to/candidates.jsonl.gz --out ./Nexus_Ai.csv
 ```
 
 ---
