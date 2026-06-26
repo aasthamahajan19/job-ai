@@ -6,11 +6,10 @@ primary_contact:
   phone: "6367157965"
 
 team_members:
-    name: "Aastha Mahajan"
-    email: "amahajan_be24@thapar.edu"
-    role: "ML Engineer"
-
-    name: "Aastha Mahajan"
+  - name: "Achal Nawal"
+    email: "anawal_be23@thapar.edu"
+    role: "Python and ML Engineer"
+  - name: "Aastha Mahajan"
     email: "amahajan_be24@thapar.edu"
     role: "AI/ML Engineer"
 
